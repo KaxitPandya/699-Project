@@ -1,0 +1,5 @@
+{
+  "dataset_path1": "prf_I5_2000_9_norm_landsat8.csv",
+  "dataset_path2": "PRF_I5_2000_band_VI_data_normPQ.csv",
+  "dataset_path3": "tvol_lidarP.csv"
+}
